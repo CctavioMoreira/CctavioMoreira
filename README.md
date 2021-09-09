@@ -3,4 +3,5 @@
 <br /><br /><br /><br />
 Hey, Morty! L-Look at this! \*_brrgh_\* <br />
 There's someone looking at our profile on GitHub. <br />
-Hide the bugs b- \*_brrgh_\* - before they find it! Quickly!!!
+Hide the bugs b- \*_brrgh_\* - before they find it! <br />
+Quickly!!!
